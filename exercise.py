@@ -7,4 +7,5 @@ def get_average():
     number_of_element=len(mylist)
     average=total/number_of_element
     print('The average number is : ',average)
+    return average
 get_average()
